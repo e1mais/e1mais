@@ -2,7 +2,8 @@
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning vanilla JavaScript and Node.js
 - 💞️ I’m looking to collaborate on privite projects
-- 📫 How to reach me: mail: ismael.martinez161@std.uni.edu.ni
+- 📫 How to reach me: mail: ismaelmartinezvi443@gmail.com
+- 
 
 <!---
 e1mais/e1mais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
