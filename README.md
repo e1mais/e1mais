@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e1mais
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning vanilla JavaScript and Node.js
-- 💞️ I’m looking to collaborate on privite projects
+- 💞️ I’m looking to collaborate on private projects
 - 📫 How to reach me: mail: ismaelmartinezvi443@gmail.com
 
 <!---
