@@ -1,3 +1,13 @@
+
+```json
+"profile": {
+  "name": "Ismael Martínez",
+  "alias": "Elmais",
+  "langugages": ["JavaScript", "Python"],
+  "interested": ["Web Programming", "AI", "Gaming"]
+}
+```
+
 - 👋 Hi, I’m @e1mais
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning vanilla JavaScript and Node.js
